@@ -19,7 +19,7 @@
 
 これはコードのサンプルです
 
-```index.js
+```js
 var test = 'テスト';
 
 console.log( test );
